@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./etc/images/code-synth.png" height="180">
+</p>
+
 # code-synth 
 ## Dream Project.
 
