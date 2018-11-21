@@ -1,9 +1,9 @@
 # code-synth 
 ## Dream Project.
 
-*Shot Name* code-synth
-*Full Name* Code Synthesizer
-*Description* Reads Source Code and Produces Sound with that Code.
+**Shot Name** code-synth
+**Full Name** Code Synthesizer
+**Description** Reads Source Code and Produces Sound with that Code.
 
 * Written Code is passed to code-synth and equivalent sound is produced.
 * This is also an experiment to see how music corresponds to the given code.
