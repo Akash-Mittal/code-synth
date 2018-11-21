@@ -1,4 +1,5 @@
-# code-synth ## Dream Project.
+# code-synth 
+## Dream Project.
 
 *Shot Name* code-synth
 *Full Name* Code Synthesizer
